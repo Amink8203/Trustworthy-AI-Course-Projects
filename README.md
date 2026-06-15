@@ -43,4 +43,3 @@ CA3/
 
 - The notebooks are intentionally self-contained and include both analysis and implementation steps.
 - Some outputs are saved in the notebooks, so opening them in a notebook viewer will preserve the visual explanations and plots.
-- If you want, I can also add a cleaner Python environment section or a short per-assignment results summary.
