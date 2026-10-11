@@ -1,6 +1,6 @@
 # Trustworthy AI · Course Projects
 
-**University of Tehran** · **Amin Aghakasiri**
+**University of Tehran** · **Trustworthy AI**
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)
