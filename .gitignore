@@ -1,0 +1,30 @@
+# Operating system files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local editor and environment settings
+.vscode/
+.idea/
+.env
+.env.*
+
+# External inputs (bundled course datasets and model weights remain tracked)
+/CA2/Q2/tiny-imagenet-200/
+/CA2/Q2/tiny-imagenet-200.zip
+/CA4/Q1/compas-scores-two-years.csv
+
+# Generated federated training data, caches, checkpoints, and analysis outputs
+/CA4/Q2/femnist_*/
+
+# Local preparation notes
+/.local-notes/

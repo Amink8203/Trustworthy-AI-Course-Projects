@@ -1,0 +1,12 @@
+# Shared notebook dependencies; inferred from imports, not a locked environment.
+jupyterlab
+numpy
+pandas
+matplotlib
+Pillow
+tqdm
+torch
+torchvision
+scikit-learn
+networkx
+statsmodels
